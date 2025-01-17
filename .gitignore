@@ -1,0 +1,5 @@
+/bop/data/*
+
+!/bop/data/MIMIC_processing/
+
+/pkl_files/
