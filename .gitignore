@@ -3,4 +3,5 @@
 !/bop/data/MIMIC_processing/
 
 /pkl_files/
-/bop/variables.pkl
+/bop/variables_regression.pkl
+/bop/variables_classification.pkl
